@@ -1,10 +1,10 @@
-# JavaFx_prak_11_12
-# Задание к Практической №11 и №12
+# JavaFx_practical_tasks_continued
+# Assignment for Practical Exercises #11 and #12
 
-Создайте калькулятор с визуальным интерфейсом состоящий из 2-х полей (ввод и вывод) и 4-х кнопок (+, -, *, /, =).
+Create a calculator with a visual interface consisting of two fields (input and output) and four buttons (+, -, *, /, =).
 
-Логика работы программы и интерфейса следующая:
-- пользователь вводит число;
-- пользователь нажимает на одну из кнопок описывающих операцию и поле ввода очищается предоставляя возможность ввести второй аргумент для выполнения операции;
-- пользователь вводит второй аргумент; 
-- пользователь нажимает на кнопку равно и получает результат операции в поле для вывода.
+The program and interface logic are as follows:
+- the user enters a number;
+- the user clicks one of the buttons describing the operation, and the input field is cleared, allowing the user to enter a second argument to perform the operation;
+- the user enters the second argument;
+- the user clicks the equals button and receives the result of the operation in the output field.
